@@ -16,4 +16,5 @@ Our objective is to build a model to scan the image of an eye of a patient and f
 
                 
 
-                                                           ![Uploading dphi.PNG…]()
+                                              <img width="505" alt="dphi" src="https://user-images.githubusercontent.com/80144294/133936095-21a6d131-bc44-4d08-92b0-6269c060ed8f.PNG">
+
