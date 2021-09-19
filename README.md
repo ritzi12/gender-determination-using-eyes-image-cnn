@@ -1,6 +1,6 @@
 # GENDER DETERMINATION USING MORPHOMETRY OF EYES 
 
- This challenge is part of Deep Learning Bootcamp. You will have to build a deep learning model that would determines gender by Morphometry of eyes.
+ <span style=color:purple>This challenge is part of Deep Learning Bootcamp. You will have to build a deep learning model that would determines gender by Morphometry of eyes.</span>
  
  
  ## BACKGROUND
@@ -15,6 +15,4 @@ Our objective is to build a model to scan the image of an eye of a patient and f
 
 
                 
-
-                                              <img width="505" alt="dphi" src="https://user-images.githubusercontent.com/80144294/133936095-21a6d131-bc44-4d08-92b0-6269c060ed8f.PNG">
-
+<img width="505" alt="dphi" src="https://user-images.githubusercontent.com/80144294/133936106-09c1a3a0-57eb-46ea-9e04-1829a8350db5.PNG">
