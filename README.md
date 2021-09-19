@@ -14,5 +14,5 @@ Our objective is to build a model to scan the image of an eye of a patient and f
 
 
 
-<img width="505" alt="dphi" src="https://user-images.githubusercontent.com/80144294/133936027-5c19be1b-0544-4c75-a267-84d0f2a27f29.PNG">
+                     <img width="800" alt="dphi" src="https://user-images.githubusercontent.com/80144294/133936027-5c19be1b-0544-4c75-a267-84d0f2a27f29.PNG">
 
